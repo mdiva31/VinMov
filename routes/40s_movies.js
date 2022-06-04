@@ -16,8 +16,6 @@ router.get('/', async(req, res) => {
         SELECT  *
         WHERE {
             ?x rdfs:img ?img .
-            ?x rdfs:linknonton ?linknonton .
-            ?x rdfs:linkimdb ?linkimdb .
             ?x rdfs:name ?name .
             ?x rdfs:release ?release .
             ?x rdfs:director ?director .
