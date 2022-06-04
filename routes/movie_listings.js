@@ -24,7 +24,6 @@ router.get('/', async(req, res) => {
               ?x rdfs:IMDBrating ?IMDBrating .
               ?x rdfs:AcademyAwards ?AcademyAwards .
               ?x rdfs:Synopsis ?Synopsis .
-              ?x rdfs:Synopsis2 ?Synopsis2 .
         
         }`;
         
