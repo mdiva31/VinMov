@@ -11,7 +11,7 @@ Tujuan dari aplikasi ini adalah sebagai wadah atau berupa katalog mengenai data 
 ![Oscar](https://user-images.githubusercontent.com/74525298/171984523-cb5ae1ef-646e-406f-b717-eb85ddfcbac5.png)
 ![70s](https://user-images.githubusercontent.com/74525298/171984854-6a142fd0-0573-420e-a97f-88004a9c7adb.png)
 
-# Cara Melihat
+# User Manual
 1. Clone Terlebih Dahulu Repo Ini
 2. Gunakan NPM Install Di Root Folder
 3. Lalu Nyalakan Jena Fuseki dengan endpoint atau path bernama "vinmov"
