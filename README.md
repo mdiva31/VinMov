@@ -7,6 +7,9 @@ Tujuan dari aplikasi ini adalah sebagai wadah atau berupa katalog mengenai data 
 
 # Screenshot
 ![Home](https://user-images.githubusercontent.com/74525298/171984261-932893b1-81b1-49bb-a6e8-a1023c9b2415.png)
+![MovieListings](https://user-images.githubusercontent.com/74525298/171984414-5e54c3e5-6ba7-45b8-8207-8f311c3cefb7.png)
+![Oscar](https://user-images.githubusercontent.com/74525298/171984523-cb5ae1ef-646e-406f-b717-eb85ddfcbac5.png)
+![70s](https://user-images.githubusercontent.com/74525298/171984854-6a142fd0-0573-420e-a97f-88004a9c7adb.png)
 
 # Cara Melihat
 1. Clone Terlebih Dahulu Repo Ini
