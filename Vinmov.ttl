@@ -1,0 +1,302 @@
+@prefix dbr:    <http://dbpedia.org/resource/> .
+@prefix rdfs:   <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix foaf:   <http://xmlns.com/foaf/0.1/> .
+
+dbr:DoubleIndemnity
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/c/ce/Double_Indemnity_%281944_poster%29.jpg";
+    rdfs:name "Double Indemnity";
+    rdfs:release 1944;
+    rdfs:director "Billy Wilder";
+    rdfs:leadactor "Fred MacMurray & Barbara Stanwyck";
+    rdfs:genres "Noir";
+    rdfs:IMDBrating 8.3;
+    rdfs:AcademyAwards "Best Actress, Best Director";
+    rdfs:Synopsis "A Los Angeles insurance representative lets an alluring housewife seduce him into a scheme of insurance fraud and murder that arouses the suspicion of his colleague, an insurance investigator".
+
+dbr:CitizenKane
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/c/c0/Citizen_Kane_poster%2C_1941_%28Style_B%2C_unrestored%29.jpg";
+    rdfs:name "Citizen Kane";
+    rdfs:release 1941;
+    rdfs:director "Orson Welles";
+    rdfs:leadactor "Orson Welles";
+    rdfs:genres "Drama";
+    rdfs:IMDBrating 8.3;
+    rdfs:AcademyAwards "Best Picture, Best Director, Best Actor";
+    rdfs:Synopsis "Following the death of publishing tycoon Charles Foster Kane, reporters scramble to uncover the meaning of his final utterance: 'Rosebud.'".
+
+dbr:Casablanca
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/b/b3/CasablancaPoster-Gold.jpg";
+    rdfs:name "Casablanca";
+    rdfs:release 1942;
+    rdfs:director "Michael Curtiz";
+    rdfs:leadactor "Humphrey Bogart & Ingrid Bergman";
+    rdfs:genres "Romance";
+    rdfs:IMDBrating 8.5;
+    rdfs:AcademyAwards "Best Picture, Best Director, Best Actor";
+    rdfs:Synopsis "A cynical expatriate American cafe owner struggles to decide whether or not to help his former lover and her fugitive husband escape the Nazis in French Morocco.".
+
+dbr:ItsAWonderfulLife
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/2/25/It%27s_a_Wonderful_Life_%281946_poster%29.jpeg";
+    rdfs:name "It's a Wonderful Life";
+    rdfs:release 1946;
+    rdfs:director "Frank Capra";
+    rdfs:leadactor "James Stewart & Donna Reed";
+    rdfs:genres "Drama";
+    rdfs:IMDBrating 8.6;
+    rdfs:AcademyAwards "Best Picture, Best Director, Best Actor Nominees";
+    rdfs:Synopsis "An angel is sent from Heaven to help a desperately frustrated businessman by showing him what life would have been like if he had never existed.".
+
+dbr:12AngryMen
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/b/b5/12_Angry_Men_%281957_film_poster%29.jpg";
+    rdfs:name "12 Angry Men";
+    rdfs:release 1957;
+    rdfs:director "Sidney Lumet";
+    rdfs:leadactor "Henry Fonda";
+    rdfs:genres "Drama";
+    rdfs:IMDBrating 9;
+    rdfs:AcademyAwards "Best Picture, Best Director Nominees";
+    rdfs:Synopsis "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.".
+
+dbr:AllAboutEve
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/a/a7/All_About_Eve_%281950_poster_-_retouch%29.jpg";
+    rdfs:name "All About Eve";
+    rdfs:release 1950;
+    rdfs:director "Joseph L. Mankiewicz";
+    rdfs:leadactor "Bette Davis & Anne Baxter";
+    rdfs:genres "Drama";
+    rdfs:IMDBrating 8.2;
+    rdfs:AcademyAwards "Best Director, Picture";
+    rdfs:Synopsis "A seemingly timid but secretly ruthless ingénue insinuates herself into the lives of an aging Broadway star and her circle of theater friends.".
+
+dbr:BenHur
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/7/74/Ben_hur_1959_poster.jpg";
+    rdfs:name "Ben-Hur";
+    rdfs:release 1959;
+    rdfs:director "William Wyler";
+    rdfs:leadactor "Charlton Heston";
+    rdfs:genres "Epic";
+    rdfs:IMDBrating 8.1;
+    rdfs:AcademyAwards "Best Picture, Best Director, Best Actor";
+    rdfs:Synopsis "After a Jewish prince is betrayed and sent into slavery by a Roman friend in 1st-century Jerusalem, he regains his freedom and comes back for revenge.".
+
+dbr:SunsetBoulevard
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/1/14/Sunset_Boulevard_%281950_poster%29.jpg";
+    rdfs:name "Sunset Boulevard";
+    rdfs:release 1950;
+    rdfs:director "Billy Wilder";
+    rdfs:leadactor "Gloria Swanson";
+    rdfs:genres "Comedy";
+    rdfs:IMDBrating 8.4;
+    rdfs:AcademyAwards "Best Writing, Best Art, Best Music";
+    rdfs:Synopsis "A screenwriter develops a dangerous relationship with a faded film star determined to make a triumphant return.".
+
+dbr:Psycho
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/7/76/Psycho_%281960%29_theatrical_poster_%28retouched%29.jpg";
+    rdfs:name "Psycho";
+    rdfs:release 1960;
+    rdfs:director "Alfred Hitchcock";
+    rdfs:leadactor "Anthony Perkins & Janet Leigh";
+    rdfs:genres "Thriller";
+    rdfs:IMDBrating 8.5;
+    rdfs:AcademyAwards "Best Actress, Best Director Nominees";
+    rdfs:Synopsis "A Phoenix secretary embezzles $40,000 from her employer's client, goes on the run, and checks into a remote motel run by a young man under the domination of his mother.".
+
+dbr:TheGoodTheBadandTheUgly
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/4/45/Good_the_bad_and_the_ugly_poster.jpg";
+    rdfs:name "The Good, The Bad and The Ugly";
+    rdfs:release 1966;
+    rdfs:director "Sergio Leone";
+    rdfs:leadactor "Clint Eastwood, Lee Van Cleef & Eli Wallach";
+    rdfs:genres "Western";
+    rdfs:IMDBrating 8.8;
+    rdfs:AcademyAwards "-";
+    rdfs:Synopsis "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery.".
+
+dbr:Goldfinger
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/9/9a/Goldfinger_-_UK_cinema_poster.jpg";
+    rdfs:name "Goldfinger";
+    rdfs:release 1964;
+    rdfs:director "Guy Hamilton";
+    rdfs:leadactor "Sean Connery";
+    rdfs:genres "Spy";
+    rdfs:IMDBrating 7.7;
+    rdfs:AcademyAwards "Best Effects";
+    rdfs:Synopsis "While investigating a gold magnate's smuggling, James Bond uncovers a plot to contaminate the Fort Knox gold reserve.".
+
+dbr:TheSoundofMusic
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/c/c6/Sound_of_music.jpg";
+    rdfs:name "The Sound of Music";
+    rdfs:release 1965;
+    rdfs:director "Robert Wise";
+    rdfs:leadactor "Julie Andrews";
+    rdfs:genres "Musical";
+    rdfs:IMDBrating 8.1;
+    rdfs:AcademyAwards "Best Picture, Best Director";
+    rdfs:Synopsis "A young novitiate is sent by her convent in 1930s Austria to become a governess to the seven children of a widowed naval officer.".
+
+dbr:TheGodfather
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/1/1c/Godfather_ver1.jpg";
+    rdfs:name "The Godfather";
+    rdfs:release 1972;
+    rdfs:director "Francis Ford Coppola";
+    rdfs:leadactor "Marlon Brando & Al Pacino";
+    rdfs:genres "Crime";
+    rdfs:IMDBrating 9.2;
+    rdfs:AcademyAwards "Best Picture, Best Actor, Best Writing";
+    rdfs:Synopsis "The aging patriarch of an organized crime dynasty in postwar New York City transfers control of his clandestine empire to his reluctant youngest son.".
+
+dbr:TheGodfather2
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/0/03/Godfather_part_ii.jpg";
+    rdfs:name "The Godfather 2";
+    rdfs:release 1974;
+    rdfs:director "Francis Ford Coppola";
+    rdfs:leadactor "Al Pacino & Robert De Niro";
+    rdfs:genres "Crime";
+    rdfs:IMDBrating 9.0;
+    rdfs:AcademyAwards "Best Picture, Best Supporting Actor, Best Director";
+    rdfs:Synopsis "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate.".
+
+dbr:TheExorcist
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/7/7b/Exorcist_ver2.jpg";
+    rdfs:name "The Exorcist";
+    rdfs:release 1973;
+    rdfs:director "William Friedkin";
+    rdfs:leadactor "Ellen Burstyn, Max von Sydow & Linda Blair";
+    rdfs:genres "Horror";
+    rdfs:IMDBrating 8.1;
+    rdfs:AcademyAwards "Best Writing, Best Sound";
+    rdfs:Synopsis "When a 12-year-old girl is possessed by a mysterious entity, her mother seeks the help of two priests to save her.".
+
+dbr:TaxiDriver
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/3/33/Taxi_Driver_%281976_film_poster%29.jpg";
+    rdfs:name "Taxi Driver";
+    rdfs:release 1976;
+    rdfs:director "Martin Scorcese";
+    rdfs:leadactor "Robert De Niro";
+    rdfs:genres "Drama";
+    rdfs:IMDBrating 8.2;
+    rdfs:AcademyAwards "Best Picture, Best Actor, Best Supporting Actress Nominees";
+    rdfs:Synopsis "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.".
+
+dbr:DirtyHarry
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/6/65/Dirty_harry.jpg";
+    rdfs:name "Dirty Harry";
+    rdfs:release 1971;
+    rdfs:director "Don Siegel";
+    rdfs:leadactor "Clint Eastwood";
+    rdfs:genres "Action";
+    rdfs:IMDBrating 7.7;
+    rdfs:AcademyAwards "-";
+    rdfs:Synopsis "When a madman calling himself the Scorpio Killer menaces the city, tough-as-nails San Francisco Police Inspector Dirty Harry Callahan is assigned to track down and ferret out the crazed psychopath.".
+
+dbr:FrenchConnection
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/b/b8/TheFrenchConnection.jpg";
+    rdfs:name "French Connection";
+    rdfs:release 1971;
+    rdfs:director "William Friedkin";
+    rdfs:leadactor "Gene Hackman";
+    rdfs:genres "Action";
+    rdfs:IMDBrating 7.7;
+    rdfs:AcademyAwards "Best Picture, Best Actor, Best Director";
+    rdfs:Synopsis "A pair of NYPD detectives in the Narcotics Bureau stumble onto a heroin smuggling ring based in Marseilles, but stopping them and capturing their leaders proves an elusive goal.".
+
+dbr:IndianaJonesRaidersOfTheLostArk
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/a/a6/Raiders_of_the_Lost_Ark_Theatrical_Poster.jpg";
+    rdfs:name "Indiana Jones : Raiders Of The Lost Ark";
+    rdfs:release 1981;
+    rdfs:director "Steven Spielberg";
+    rdfs:leadactor "Harrison Ford & Karen Allen";
+    rdfs:genres "Action";
+    rdfs:IMDBrating 8.4;
+    rdfs:AcademyAwards "Best Sound, Best Art Direction, Best Film Editing";
+    rdfs:Synopsis "In 1936, archaeologist and adventurer Indiana Jones is hired by the U.S. government to find the Ark of the Covenant before Adolf Hitler's Nazis can obtain its awesome powers.".
+
+dbr:Bloodsport
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/4/4f/Bloodsport_%28movie_poster%29.jpg";
+    rdfs:name "Bloodsport";
+    rdfs:release 1988;
+    rdfs:director "Newt Arnold";
+    rdfs:leadactor "Jean Claude Van-Damme";
+    rdfs:genres "Martial Arts";
+    rdfs:IMDBrating 6.8;
+    rdfs:AcademyAwards "-";
+    rdfs:Synopsis "Bloodsport follows Frank Dux, an American martial artist serving in the military, who decides to leave the army to compete in a martial arts tournament in Hong Kong where fights to the death can occur.".
+
+dbr:Batman
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/5/5a/Batman_%281989%29_theatrical_poster.jpg";
+    rdfs:name "Batman";
+    rdfs:release 1989;
+    rdfs:director "Tim Burton";
+    rdfs:leadactor "Michael Keaton & Jack Nicholson";
+    rdfs:genres "Superhero";
+    rdfs:IMDBrating 7.5;
+    rdfs:AcademyAwards "Best Art Direction";
+    rdfs:Synopsis "The Dark Knight of Gotham City begins his war on crime with his first major enemy being Jack Napier, a criminal who becomes the clownishly homicidal Joker.".
+
+dbr:DieHard
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/c/ca/Die_Hard_%281988_film%29_poster.jpg";
+    rdfs:name "Die Hard";
+    rdfs:release 1988;
+    rdfs:director "John McTiernan";
+    rdfs:leadactor "Bruce Willis";
+    rdfs:genres "Action";
+    rdfs:IMDBrating 8.2;
+    rdfs:AcademyAwards "Best Sound, Best Film Editing, Best Effects Nominees";
+    rdfs:Synopsis "An NYPD officer tries to save his wife and several others taken hostage by German terrorists during a Christmas party at the Nakatomi Plaza in Los Angeles.".
+
+dbr:TheShining
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/1/1d/The_Shining_%281980%29_U.K._release_poster_-_The_tide_of_terror_that_swept_America_IS_HERE.jpg";
+    rdfs:name "The Shining";
+    rdfs:release 1980;
+    rdfs:director "Stanley Kubrick";
+    rdfs:leadactor "Shelly Duvall & Jack Nicholson";
+    rdfs:genres "Thriller";
+    rdfs:IMDBrating 8.4;
+    rdfs:AcademyAwards "-";
+    rdfs:Synopsis "A family heads to an isolated hotel for the winter where a sinister presence influences the father into violence, while his psychic son sees horrific forebodings from both past and future.".
+
+dbr:StarWars
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/en/3/3f/The_Empire_Strikes_Back_%281980_film%29.jpg";
+    rdfs:name "Star Wars: Episode V - The Empire Strikes Back";
+    rdfs:release 1980;
+    rdfs:director "Irvin Kershner";
+    rdfs:leadactor "Mark Hamill, Harrison Ford, Carrie Fisher";
+    rdfs:genres "Science Fiction";
+    rdfs:IMDBrating 8.7;
+    rdfs:AcademyAwards "Best Sound";
+    rdfs:Synopsis "After the Rebels are brutally overpowered by the Empire on the ice planet Hoth, Luke Skywalker begins Jedi training with Yoda, while his friends are pursued across the galaxy by Darth Vader and bounty hunter Boba Fett.".
+
+dbr:SevenSamurai
+    a foaf:Movie;
+    rdfs:img "https://upload.wikimedia.org/wikipedia/commons/b/ba/Seven_Samurai_poster.jpg";
+    rdfs:name "Seven Samurai";
+    rdfs:release 1954;
+    rdfs:director "Akira Kurosawa";
+    rdfs:leadactor "Toshiro Mifune";
+    rdfs:genres "Samurai";
+    rdfs:IMDBrating 8.6;
+    rdfs:AcademyAwards "Best Art Direction, Best Costume Design Nominees";
+    rdfs:Synopsis "A poor village under attack by bandits recruits seven unemployed samurai to help them defend themselves.".

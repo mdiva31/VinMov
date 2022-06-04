@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>40s Movies</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/listings.css">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+</head>
+<body>
+  <h1 class="header">
+    <div class="logo">40s Movies</div>
+    <div class="back">
+      <a href="/">Go Back</a>
+    </div>
+  </h1>
+
+  <div class="movie-wrapper">
+    <div class="movie-listings">
+      <% movies.forEach(function(movie) { %>
+        <div class="movie-listings-card">
+          <h2 class="title-font"><%= movie.name %></h2>
+          <img src= <%= movie.img %>>
+          <p class="content-font">Year Release       :<%= movie.release  %> </p>
+          <p class="content-font">Director           : <%= movie.director %></p>
+          <p class="content-font">Lead Actor         : <%= movie.leadactor %></p>
+          <p class="content-font">Genres             : <%= movie.genres %></p>
+          <p class="content-font">IMDB Rating        : <%= movie.IMDBrating %></p>
+          <p class="content-font">Academy Awards     : <%= movie.AcademyAwards %></p>
+          <p class="content-font">Summary Synopsis   : <%= movie.Synopsis %></p>
+
+        </div>
+      <% }); %> 
+    </div>
+  </div>
+</body>
+</html>
