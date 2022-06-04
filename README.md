@@ -6,7 +6,7 @@ Proyek ini merupakan proyek mata kuliah Semantik Web dengan menggunakan NodeJS. 
 Tujuan dari aplikasi ini adalah sebagai wadah atau berupa katalog mengenai data terkait film-film klasik antara tahun 1940an sampai dengan 1980an. Jadi didalamnya user telah disediakan kategori misalnya film action atau film tahun 1950an. Datanya mulai dari poster, nama film, sutradara, pemain, penghargaan Academy Awards dan lainnya.
 
 # Screenshot
-[![Index](https://imgur.com/l1iPGmd)](https://imgur.com/l1iPGmd)
+[![Index](https://imgur.com/l1iPGmd)]
 
 # Cara Melihat
 1. Clone Terlebih Dahulu Repo Ini
